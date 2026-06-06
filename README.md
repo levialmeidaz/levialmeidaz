@@ -1,8 +1,17 @@
 # Olá, eu sou o Levi Almeida! 👋
 
-### Senior Team Leader | Analytics Engineer | BI Specialist
+### Analytics Engineer | Data Analyst | BI Specialist
 
-Sou um profissional focado em transformar dados brutos em inteligência estratégica e otimização operacional. Atualmente, atuo na liderança de times e no desenvolvimento de soluções de Business Intelligence, engenharia e arquitetura de dados. Além da atuação corporativa, sou empreendedor, aplicando o poder do Analytics para alavancar negócios e eficiência de processos no mercado real.
+Sou um profissional focado em transformar dados brutos em inteligência estratégica e otimização operacional. Atualmente, atuo no desenvolvimento de soluções de Business Intelligence, engenharia e arquitetura de dados. Além da atuação corporativa, sou empreendedor, aplicando o poder do Analytics para alavancar negócios e eficiência de processos no mercado real.
+
+---
+
+### 📫 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/levi-almeida-dados/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
@@ -10,7 +19,7 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
 * **Microsoft Certified: Power BI Data Analyst (PL-300)**
 * **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 * **MBA em Business Intelligence e Analytics 360** — Xperiun
-* **Perfil Comportamental (DISC):** Executador / Dominante (Foco em resultados, agilidade e tomada de decisão estratégica)
+* **Perfil Comportamental (DISC):** Executador / Dominante
 
 ---
 
@@ -27,7 +36,7 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
       <br />SQL / T-SQL
     </td>
     <td align="center" width="110">
-      <img src="https://images.identity.uillinois.edu/images/standard/PowerBI_Icon.png" width="40" height="40" alt="Power BI" />
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI%20-%20Core/Power%20BI%20(Core)%20-%20Standard.svg" width="40" height="40" alt="Power BI" />
       <br />Power BI / DAX
     </td>
     <td align="center" width="110">
@@ -48,9 +57,9 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_DO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=levialmeidaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_DO_GITHUB&layout=compact&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levialmeidaz&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -58,12 +67,3 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
 ### 🛠️ Projetos em Destaque & Iniciativas
 * 📊 **Synapse Consultoria de BI:** Desenvolvimento de arquiteturas de dados e dashboards corporativos personalizados para tomadas de decisão de alto impacto.
 * 🏪 **Otimização Operacional e Precificação:** Modelagem de dados para análise de markup, custos de manufatura e expansão de canais de delivery e marketplaces.
-
----
-
-### 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/levi-almeida-dados/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
