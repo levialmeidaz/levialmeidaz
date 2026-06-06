@@ -1,4 +1,4 @@
-# Olá, eu sou o Levi Almeida! 👋
+# Olá, eu sou o Levi! 👋
 
 ### Analytics Engineer | Data Analyst | BI Specialist
 
@@ -28,15 +28,15 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br />Python
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" alt="SQL Server" />
       <br />SQL / T-SQL
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI%20-%20Core/Power%20BI%20(Core)%20-%20Standard.svg" width="40" height="40" alt="Power BI" />
+      <img src="https://simpleicons.org/icons/powerbi.svg" width="40" height="40" alt="Power BI" style="background-color: transparent;" />
       <br />Power BI / DAX
     </td>
     <td align="center" width="110">
@@ -44,7 +44,7 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
       <br />BigQuery / GCP
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       <br />Git / GitHub
     </td>
   </tr>
@@ -57,9 +57,9 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=levialmeidaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.azurewebsites.net/api?username=levialmeidaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levialmeidaz&layout=compact&theme=dark" />
+  <img height="180" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=levialmeidaz&layout=compact&theme=dark" />
 </p>
 
 ---
