@@ -36,7 +36,7 @@ Sou um profissional focado em transformar dados brutos em inteligência estraté
       <br />SQL / T-SQL
     </td>
     <td align="center" width="110">
-      <img src="https://simpleicons.org/icons/powerbi.svg" width="40" height="40" alt="Power BI" style="background-color: transparent;" />
+      <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black" width="75" height="25" alt="Power BI" />
       <br />Power BI / DAX
     </td>
     <td align="center" width="110">
